@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I/usr/include/gtk-2.0.]
